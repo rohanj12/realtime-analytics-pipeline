@@ -1,0 +1,4 @@
+confluent-kafka
+pyspark
+psycopg2-binary
+sqlalchemy
