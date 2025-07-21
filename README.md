@@ -62,5 +62,5 @@ To import:
 
 ## Live Dashboard Preview
 
-![Real‑time clickstream analytics dashboard](docs/img/dashboard.png)  
+![Real‑time clickstream analytics dashboard](docs/img/Realtime-Analytics-Pipeline-Dashboard.png)  
 *Figure: Real‑time clickstream analytics dashboard*  
